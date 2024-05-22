@@ -24,8 +24,8 @@ My technical expertise is complemented by impactful leadership roles that enhanc
 ### 🚀 Projects
 
 - **[fertiCulture App](https://github.com/tarun05rawat/fertiCulture)**
-  - Developed during SpartaHack, utilized Python and Machine Learning to optimize NPK values and predict crop yields with 93% accuracy.
-  - Integrated Kivy Module for enhanced UI experience and planned real-time soil sensor integration.
+  - Developed during SpartaHack, utilized Python and Machine Learning to optimize NPK values and predict crop yields with 93% accuracy
+  - Integrated Kivy Module for enhanced UI experience and planned real-time soil sensor integration
 
 - **[NCAA Basketball Outcome Predictor](https://github.com/tarun05rawat/NCAA-Basketball-Outcome-Predictor)**
   - As a Research Assistant at the Department of Statistics & Probability, leveraged techniques like Random Forest and Neural Networks to predict NCAA basketball outcomes with 85% accuracy.
