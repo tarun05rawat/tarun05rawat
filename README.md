@@ -4,13 +4,13 @@
 
 ## 👋 Hi there!
 
-I'm Tarun, a passionate and diligent Computer Science student at Michigan State University, focusing on Web Development, Python, and Artificial Intelligence. 
+I'm Tarun, a passionate Computer Science student at Michigan State University, focusing on Web Development, Python, and Artificial Intelligence. 
 I am committed to mastering new skills and thrive in challenging environments. 
 My technical expertise is complemented by impactful leadership roles that enhance my collaborative projects.
 
 ### 🎓 Education
 
-- **Bachelor of Science, Computer Science**
+- **Bachelors in Computer Science**
   - Michigan State University, College of Engineering
   - September 2023 - May 2027
   - Awards: Dean's List, Presidential and Honors Scholarships (Top 1% at MSU)
