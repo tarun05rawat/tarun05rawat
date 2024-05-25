@@ -17,7 +17,7 @@ My technical expertise is complemented by impactful leadership roles that enhanc
 
 ### 💻 Tech Stack
 
-- **Languages & Frameworks:** HTML, CSS, Tailwind CSS, JavaScript, Python
+- **Languages & Frameworks:** Python, JavaScript, HTML, CSS, Tailwind CSS
 - **Databases:** MySQL
 - **Tools:** SharePoint, Microsoft Office Suite (Word, PowerPoint, Excel)
 
