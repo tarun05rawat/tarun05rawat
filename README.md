@@ -14,7 +14,6 @@ My technical expertise is complemented by impactful leadership roles that enhanc
   - Awards: Dean's List, Presidential and Honors Scholarships (Top 1% at MSU)
 
 ### 💻 Tech Stack
-
 - **Languages & Frameworks:** Python, JavaScript, HTML, CSS, Tailwind CSS
 - **Databases:** MySQL
 - **Tools:** SharePoint, Microsoft Office Suite (Word, PowerPoint, Excel)
