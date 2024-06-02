@@ -20,7 +20,6 @@ My technical expertise is complemented by impactful leadership roles that enhanc
 - **Tools:** SharePoint, Microsoft Office Suite (Word, PowerPoint, Excel)
 
 ### 🚀 Projects
-
 - **[fertiCulture App](https://github.com/tarun05rawat/fertiCulture)**
   - Developed during SpartaHack, utilized Python and Machine Learning to optimize NPK values and predict crop yields with 93% accuracy
   - Integrated Kivy Module for enhanced UI experience and planned real-time soil sensor integration
