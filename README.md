@@ -1,4 +1,4 @@
-# Tarun Rawat
+ # Tarun Rawat
 
 📍 East Lansing, MI | ✉️ [Email](mailto:rawattar@msu.edu) | 🔗 [LinkedIn](https://linkedin.com/in/tarun05rawat) | 🐙 [GitHub](https://github.com/tarun05rawat)
 
