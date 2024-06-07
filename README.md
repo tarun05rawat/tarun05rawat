@@ -7,16 +7,19 @@ I'm Tarun, a passionate Computer Science student at Michigan State University, f
 I am committed to mastering new skills and thrive in challenging environments. 
 My technical expertise is complemented by impactful leadership roles that enhance my collaborative projects.
 
+
 ### 🎓 Education
 - **Bachelors in Computer Science**
   - Michigan State University, College of Engineering
   - September 2023 - May 2027
   - Awards: Dean's List, Presidential and Honors Scholarships (Top 1% at MSU)
 
+
 ### 💻 Tech Stack
 - **Languages & Frameworks:** Python, JavaScript, HTML, CSS, Tailwind CSS
 - **Databases:** MySQL
 - **Tools:** SharePoint, Microsoft Office Suite (Word, PowerPoint, Excel)
+
 
 ### 🚀 Projects
 - **[fertiCulture App](https://github.com/tarun05rawat/fertiCulture)**
@@ -26,11 +29,13 @@ My technical expertise is complemented by impactful leadership roles that enhanc
 - **[NCAA Basketball Outcome Predictor](https://github.com/tarun05rawat/NCAA-Basketball-Outcome-Predictor)**
   - As a Research Assistant at the Department of Statistics & Probability, leveraged techniques like Random Forest and Neural Networks to predict NCAA basketball outcomes with 85% accuracy.
 
+
 ### 🌱 I’m currently learning
 - Object Oriented Programming and DSA with C++
 - JavaScript and building related websites/webapps
 - Theory and Mathematics behind Artificial Intelligence
 - Expanding my knowledge in cloud computing and big data technologies
+
 
 ### 👥 Leadership
 - **Vice President of Membership**, Engineering Student Council
