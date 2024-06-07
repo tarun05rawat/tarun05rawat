@@ -26,13 +26,11 @@ My technical expertise is complemented by impactful leadership roles that enhanc
 - **[NCAA Basketball Outcome Predictor](https://github.com/tarun05rawat/NCAA-Basketball-Outcome-Predictor)**
   - As a Research Assistant at the Department of Statistics & Probability, leveraged techniques like Random Forest and Neural Networks to predict NCAA basketball outcomes with 85% accuracy.
 
-
 ### 🌱 I’m currently learning
 - Object Oriented Programming and DSA with C++
 - JavaScript and building related websites/webapps
 - Theory and Mathematics behind Artificial Intelligence
 - Expanding my knowledge in cloud computing and big data technologies
-
 
 ### 👥 Leadership
 - **Vice President of Membership**, Engineering Student Council
