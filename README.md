@@ -21,4 +21,4 @@ Dean’s List 🏅 | Presidential and Honors Scholarships 🥇 (Top 1% at MSU)
 - **VP of Membership @ Engineering Student Council** | Elevating events and connecting students across MSU 🚀  
 
 🌐 **Let's Connect:**  
-✨ GitHub | 🌐 Website | 💼 LinkedIn
+✨ GitHub[https://github.com/tarun05rawat] | 🌐 Website | 💼 LinkedIn
