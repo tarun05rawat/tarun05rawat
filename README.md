@@ -2,22 +2,23 @@
 🎓 **Sophomore @ MSU | Prev @ SAS | Tech Enthusiast | Innovator**  
 
 🚀 **Tech Stack Mastery:**  
-Python 🐍 | JavaScript ⚡ | React ⚛️ | Next.js | Vercel | HTML/CSS 🎨 | TensorFlow 🤖 | C/C++ 💻 | Git/GitHub 🧑‍💻  
+Python 🐍 | JavaScript ⚡ | React ⚛️ | Next.js | Flask | Vercel | HTML/CSS 🎨 | TensorFlow 🤖 | C/C++ 💻 | Git/GitHub 🧑‍💻  
 
 🎖 **Awards:**  
 Dean’s List 🏅 | Presidential and Honors Scholarships 🥇 (Top 1% at MSU)
 
 🌟 **Experience Highlights:**  
-- **ML Intern @ SAS** 🏢 | Improved telecom customer retention by predicting churn with 94% accuracy 📈  
+- **SWE Intern @ SAS** 🏢 | Improved telecom customer retention by predicting customer churn with 94% accuracy 📈  
 - **Extern @ Beats by Dre** 🎧 | Analyzed customer sentiment for Beats Pill, influencing product marketing strategy 📊  
 - **Software Engineering Fellow @ Headstarter** 👨‍💻 | Built AI-driven projects with a hands-on approach to teamwork and Git mastery 🤝  
 
 🛠 **Projects I'm Proud Of:**  
-- **Rate My Professor Chatbot** 🤖 | Chatbot using RAG, Pinecone, and Next.js to give students the scoop on professors 📚  
-- **StockSmart** 🥫 | Pantry management app with AI recipe generation, because cooking smart is the new norm 🍳
+- **RepRight** 🏋️ | Fitness form correction app using Computer Vision, giving real-time feedback for perfecting exercise technique 💪
+- **InterviewIQ**🎤 | AI-driven interview simulator with transcription and analysis, helping users ace their interview skills 👔
 
 👥 **Leadership Roles:**  
-- **VP of Outreach @ GDG MSU** | Growing the tech community, one workshop at a time 🎤  
+- **VP of Outreach @ Google Developer Groups - MSU Chapter** | Building connections and boosting tech skills through hands-on workshops and events 🎉
+- **Operations Team @ SpartaHack X** | Crafting an unforgettable hackathon experience for 500+ participants 💻
 - **VP of Membership @ Engineering Student Council** | Elevating events and connecting students across MSU 🚀  
 
 🌐 **Let's Connect:**  
