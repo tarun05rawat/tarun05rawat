@@ -1,5 +1,5 @@
 👋 **Hey there! I'm Tarun Rawat**  
-🎓 **Sophomore @ MSU | Prev @ SAS | Tech Enthusiast | Innovator**  
+🎓 **Sophomore @ MSU | Prev @ SAS 
 
 🚀 **Tech Stack Mastery:**  
 Python 🐍 | JavaScript ⚡ | React ⚛️ | Next.js | Flask | Vercel | HTML/CSS 🎨 | TensorFlow 🤖 | C/C++ 💻 | Git/GitHub 🧑‍💻  
