@@ -25,3 +25,8 @@ Dean’s List 🏅 | Presidential and Honors Scholarships 🥇 (Top 1% at MSU)
 
 - 🌐 Website:(https://tarun-rawat.com/
 - 💼 LinkedIn:(https://www.linkedin.com/in/tarun05rawat/)
+
+
+![tarun05rawat's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tarun05rawat&theme=highcontrast&hide_border=true)
+
+![tarun05rawat's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tarun05rawat&theme=highcontrast&show_icons=true&hide_border=true&layout=compact)
