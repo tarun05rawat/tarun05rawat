@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Go, Ruby on Rails, Next.js**
 
-- 🌐 My Personal Website [tarun-rawat.com](https://tarun-rawat.com/)
+- 🌐 My Personal Website: [tarun-rawat.com](https://tarun-rawat.com/)
 
 - 👨‍💻 All of my projects are available at [https://github.com/tarun05rawat](https://github.com/tarun05rawat)
 
