@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tarun Rawat</h1>
 <h3 align="center">Full Stack Engineer studying CS at MSU, with a concentration in AI</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarun05rawat" alt="tarun05rawat" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tarun05rawat" alt="tarun05rawat" /></a> </p>
 
 - 🔭 I’m currently working on [RepRight](https://github.com/MSU-AI/form-check)
 
