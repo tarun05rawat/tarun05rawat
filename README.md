@@ -15,7 +15,6 @@
 
 - 📫 How to reach me **rawattar@msu.edu**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/12rI1m-h7u_-aImz_zTOceS-ZCRWFZjsu](https://drive.google.com/drive/u/0/folders/12rI1m-h7u_-aImz_zTOceS-ZCRWFZjsu)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
