@@ -1,4 +1,4 @@
-<h1 align="center">hi i'm Tarun Rawat</h1>
+<h1 align="center">hi i'm Tarun</h1>
 <h3 align="center">full stack engineer studying CS @ MSU</h3>
 
 
