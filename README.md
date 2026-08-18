@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tarun Rawat</h1>
-<h3 align="center">Full Stack Engineer studying CS @ MSU</h3>
+<h1 align="center">hi i'm Tarun Rawat</h1>
+<h3 align="center">full stack engineer studying CS @ MSU</h3>
 
 
 - 🔭 I’m currently working on [RepRight](https://github.com/MSU-AI/form-check)
