@@ -16,7 +16,7 @@ I'm a Computer Science student at Michigan State University interested in cloud 
 
 I enjoy taking ambiguous problems from an initial prototype to something testable, observable, and useful. My recent work includes Kubernetes diagnostics, real-time event pipelines, AI-agent tooling, and model evaluation infrastructure.
 
-- Software engineering experience across SAS and Michigan State University
+- Software engineering experience across SAS, Revy, MSU
 - Anthropic Technical Campus Ambassador
 - 2x hackathon winner
 - B.S. Computer Science, expected December 2027
