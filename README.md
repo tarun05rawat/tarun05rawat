@@ -18,7 +18,7 @@ I enjoy taking ambiguous problems from an initial prototype to something testabl
 
 - Software engineering experience across SAS and Michigan State University
 - Anthropic Technical Campus Ambassador
-- Two-time hackathon winner
+- 2x hackathon winner
 - B.S. Computer Science, expected December 2027
 
 ## Featured Projects
