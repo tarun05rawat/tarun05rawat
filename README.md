@@ -32,6 +32,13 @@ I enjoy taking ambiguous problems from an initial prototype to something testabl
 | [VectorLite](https://github.com/tarun05rawat/VectorLite) | Performs multithreaded semantic search across 100K+ embeddings with sub-50 ms query latency. | C++, SIMD, Multithreading, CMake |
 | [HopeHub](https://github.com/tarun05rawat/hackdavis-25) | Award-winning case-management and grant-reporting platform built for a nonprofit serving 300+ community members. | Next.js, TypeScript, Firebase, Gemini |
 
+## More Builds
+
+- [ActionPilot](https://github.com/tarun05rawat/ActionPilot) — AI workflow builder that converts natural-language goals into validated, executable action plans.
+- [Interface Forge](https://github.com/tarun05rawat/interface-forge) — Rust CLI that validates structured interface specifications and generates strongly typed Rust definitions.
+- [StudentCoursePlanner](https://github.com/tarun05rawat/StudentCoursePlanner) — Full-stack academic planning platform with Spring Boot APIs, prerequisite validation, and degree-progress tracking.
+- [SnippetShare](https://github.com/tarun05rawat/snippetshare) — GrizzHacks DevTools winner that lets developers share and reuse code snippets inside VS Code.
+
 ## Technical Focus
 
 **Languages:** Go, Python, C++, TypeScript, Java, SQL  
