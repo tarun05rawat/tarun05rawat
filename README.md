@@ -1,31 +1,52 @@
 <h1 align="center">Tarun Rawat</h1>
-<h3 align="center">full stack engineer studying CS @ MSU</h3>
 
-
-- 🔭 I’m currently working on [RepRight](https://github.com/MSU-AI/form-check)
-
-- 🌱 I’m currently learning **Go, Ruby on Rails, Next.js**
-
-- 🌐 My Personal Website: [tarun-rawat.com](https://tarun-rawat.com/)
-
-- 👨‍💻 All of my projects are available at [https://github.com/tarun05rawat](https://github.com/tarun05rawat)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/tarun05rawat/](https://www.linkedin.com/in/tarun05rawat/)
-
-- 📫 How to reach me **rawattar@msu.edu**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- <a href="https://dev.to/tarun-rawat.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="tarun-rawat.com" height="30" width="40" /></a> -->
-<a href="https://linkedin.com/in/tarun05rawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tarun05rawat" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/tarun05rawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="tarun05rawat" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tarun05rawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tarun05rawat" height="30" width="40" /></a>
+<p align="center">
+  <strong>I build infrastructure and AI tools that make complex systems easier to operate, understand, and trust.</strong>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://tarun-rawat.com">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/tarun05rawat">LinkedIn</a> ·
+  <a href="mailto:rawattar@msu.edu">Email</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tarun05rawat&show_icons=true&locale=en&layout=compact" alt="tarun05rawat" /></p>
+## About
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tarun05rawat&" alt="tarun05rawat" /></p>
+I'm a Computer Science student at Michigan State University interested in cloud infrastructure, distributed systems, developer tooling, and applied AI.
+
+I enjoy taking ambiguous problems from an initial prototype to something testable, observable, and useful. My recent work includes Kubernetes diagnostics, real-time event pipelines, AI-agent tooling, and model evaluation infrastructure.
+
+- Software engineering experience across SAS and Michigan State University
+- Anthropic Technical Campus Ambassador
+- Two-time hackathon winner
+- B.S. Computer Science, expected December 2027
+
+## Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [PodPulse](https://github.com/tarun05rawat/podpulse---k8n-diagnostic-tool) | Monitors Kubernetes clusters and diagnoses 7 rollout, scheduling, and runtime failure modes across 5 resource types. | Go, Kubernetes, PostgreSQL, React, Docker |
+| [ToolGraph](https://github.com/tarun05rawat/toolgraph) | Maps 893 API tools into 2,337 dependency relationships so AI agents can determine which tools to call and in what order. | TypeScript, JSON Schema, OpenAI API, Vis Network |
+| [FleetStream](https://github.com/tarun05rawat/fleetstream) | Processes high-volume telemetry through distributed ingestion, routing, anomaly detection, and live monitoring workflows. | Go, Kafka, PostgreSQL, Kubernetes, Docker |
+| [SafeBench](https://github.com/tarun05rawat/SafeBench) | Evaluates LLM behavior across repeatable safety, reliability, and regression test cases. | Python, AsyncIO, Pandas, Docker |
+| [VectorLite](https://github.com/tarun05rawat/VectorLite) | Performs multithreaded semantic search across 100K+ embeddings with sub-50 ms query latency. | C++, SIMD, Multithreading, CMake |
+| [HopeHub](https://github.com/tarun05rawat/hackdavis-25) | Award-winning case-management and grant-reporting platform built for a nonprofit serving 300+ community members. | Next.js, TypeScript, Firebase, Gemini |
+
+## Technical Focus
+
+**Languages:** Go, Python, C++, TypeScript, Java, SQL  
+**Infrastructure:** Kubernetes, Docker, Kafka, AWS ECS/Fargate, GitHub Actions  
+**Backend and Data:** FastAPI, PostgreSQL, REST APIs, WebSockets, AsyncIO  
+**AI:** LLM evaluation, structured outputs, tool calling, MCP, RAG  
+**Engineering:** Distributed systems, observability, testing, debugging, performance optimization
+
+## Currently
+
+- Building cloud-native infrastructure and developer tools
+- Preparing for the AWS Certified Cloud Practitioner certification
+- Exploring reliable ways to deploy, evaluate, and operate AI systems
+- Open to software engineering and infrastructure opportunities
+
+## Connect
+
+The best way to reach me is through [LinkedIn](https://www.linkedin.com/in/tarun05rawat/) or at [rawattar@msu.edu](mailto:rawattar@msu.edu).
